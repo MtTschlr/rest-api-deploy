@@ -1,0 +1,24 @@
+[{
+    "id": "dcdd0fad-2f3b-4f3e-8e1a-9b5f6c6e7a8b",
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "genre": ["sci-fi"],
+    "rating": 8.8,
+    "duration": 148,
+    "poster": "https://filmartgallery.com/cdn/shop/files/Inception-Vintage-Movie-Poster-Original_bae84a05.jpg?v=1741766105"
+},
+{
+    "id": "dcdd0fad-2f3b-4f3e-8e1a-8b5f6c6e7a8c",
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 2010, 
+    "genre": [
+        "action",
+        "sci-fi",
+        "adventure"
+    ],
+    "rating": 9.0,
+    "duration": 180,
+    "poster": "https://m.media-amazon.com/images/I/71hGGgSVC1L._UF894,1000_QL80_.jpg"
+}]
